@@ -38,3 +38,4 @@ connect.json
 polaris.yml
 pim_excl.json
 cdev.json
+sarif_reports/
